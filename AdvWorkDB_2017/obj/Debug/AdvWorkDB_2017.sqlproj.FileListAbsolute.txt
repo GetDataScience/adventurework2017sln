@@ -1,0 +1,10 @@
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\bin\Debug\AdvWorkDB_2017.dacpac
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\bin\Debug\AdvWorkDB_2017.dll
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\bin\Debug\AdvWorkDB_2017.pdb
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\obj\Debug\AdvWorkDB_2017.sqlprojAssemblyReference.cache
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\obj\Debug\Model.xml
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\obj\Debug\refactor.xml
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\obj\Debug\postdeploy.sql
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\obj\Debug\predeploy.sql
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\obj\Debug\AdvWorkDB_2017.dll
+C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\obj\Debug\AdvWorkDB_2017.pdb

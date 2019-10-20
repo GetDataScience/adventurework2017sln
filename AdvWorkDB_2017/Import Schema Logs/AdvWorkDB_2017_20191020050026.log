@@ -1,0 +1,10 @@
+10/19/2019 11:00:26 PM	This log contains information about the import schema operation into project 'AdvWorkDB_2017' on computer 'DESKTOP-9JL7H36' by user 'Get'.
+10/19/2019 11:00:26 PM	Deserializing model
+10/19/2019 11:00:26 PM	Resolving model
+10/19/2019 11:00:27 PM	Visiting imported model for types
+10/19/2019 11:00:27 PM	Scanning project for duplicate elements
+10/19/2019 11:00:27 PM	Finished duplicate element processing
+10/19/2019 11:00:28 PM	Processing extra files
+10/19/2019 11:00:28 PM	Finished importing Data-tier Application file.
+10/19/2019 11:00:28 PM	A summary of the import was saved to the following location: C:\exl\AdvWorkDB_2017\AdvWorkDB_2017\Import Schema Logs\AdvWorkDB_2017_20191020050026.log
+10/19/2019 11:00:28 PM	Click Finish to continue...
